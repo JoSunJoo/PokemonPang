@@ -7,12 +7,8 @@ import java.util.Queue;
 import java.util.Random;
 import java.util.Set;
 
-/**
- * 한국기술교육대학교 컴퓨터공학부
- * 2017년도 2학기 학기 프로젝트: 포켓몬팡
- * @author 김상진 
- * 포켓몬팡의 모델 클래스: 게임 로직 구현
- */
+ // 포켓몬팡의 모델 클래스: 게임 로직 구현
+
 
 public class PangGridModel {
 	private Pokemon[][] gridData 
