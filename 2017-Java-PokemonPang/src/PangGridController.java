@@ -12,12 +12,8 @@ import javafx.stage.Stage;
 import javafx.stage.Window;
 import javafx.util.Duration;
 
-/**
- * 한국기술교육대학교 컴퓨터공학부
- * 2017년도 2학기 학기 프로젝트: 포켓몬팡
- * @author 김상진 
- * 포켓몬팡의 Controller 클래스: 각 종 이벤트 처리
- */
+ //포켓몬팡의 Controller 클래스: 각 종 이벤트 처리
+ 
 public class PangGridController {
 	private Timeline gameOverTimeline = new Timeline();
 	private Timeline hintTimeline = new Timeline();
