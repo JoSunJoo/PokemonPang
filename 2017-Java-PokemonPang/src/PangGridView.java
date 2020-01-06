@@ -15,14 +15,12 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.util.Duration;
 
-/**
- * 한국기술교육대학교 컴퓨터공학부
- * 2017년도 2학기 학기 프로젝트: 포켓몬팡
- * @author 김상진 
- * 포켓몬팡의 뷰 클래스: 화면 처리
- * BorderPane 상속, Top과 center만 사용
- * 7x7 이미지는 ImageView 2차원 배열 사용
+/*
+  포켓몬팡의 뷰 클래스: 화면 처리
+  BorderPane 상속, Top과 center만 사용
+  7x7 이미지는 ImageView 2차원 배열 사용
  */
+
 public class PangGridView extends BorderPane {
 	// GUI Nodes
 	private HBox statePane = new HBox();
